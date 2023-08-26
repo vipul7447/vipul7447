@@ -42,31 +42,30 @@ My name is <strong>Vipul Bhatt</strong> :raising_hand:  and I am a 21 year old <
 <h2 align="center"> Languages :computer: and Frameworks I Love :heart: </h2>
 <br/>
 <div align="center">
-	<img src = 'images/bootstrap.svg' height='60'/>
-	<img src = 'images/c-original.svg' height='60'/>
-	<img src = 'images/cpp.svg' height='60'/>
-	<img src = 'images/css.svg' height='60'/>
-	<img src = 'images/django.svg' height='60'/>
-	<img src = 'images/flask.png' height='60'/>
-	<img src = 'images/git.svg' height='60'/>
-	<img src = 'images/html.svg' height='60'/>
-	<img src = 'images/js.svg' height='60'/>
-	<img src = 'images/pycharm.svg' height='60'/>
-	<img src = 'images/python.svg' height='60'/>
-	<img src = 'images/sql.svg' height='60'/>
-	<img src='images/numpy.png' height='60' />
-	<img src='images/bash.png' height='60' />
-	<img src='images/pandas.png' height='60' />
-	<img src='images/qiskit.jpg' height='60' />
-	<img src='images/tkinter.jpg' height='60' />
-	<img src='images/graphql.png' height='60' />
-	<img src='images/svelte.png' height='60' />
-	<img src='images/wordpress.png' height='60' />
-	<img src='images/apollo.png' height='60' />
-	<img src='images/leaflet.gif' height='60' />
-	<img src='images/moibit_matic.png' height='60' />
-	<img src='images/react.jpg' height='60' />
-	<img src='images/vuejs.jpg' height='60' />
+	<img src = 'bootstrap.svg' height='60'/>
+	<img src = 'c-original.svg' height='60'/>
+	<img src = 'cpp.svg' height='60'/>
+	<img src = 'css.svg' height='60'/>
+	<img src = 'django.svg' height='60'/>
+	<img src = 'flask.png' height='60'/>
+	<img src = 'git.svg' height='60'/>
+	<img src = 'html.svg' height='60'/>
+	<img src = 'js.svg' height='60'/>
+	<img src = 'pycharm.svg' height='60'/>
+	<img src = 'python.svg' height='60'/>
+	<img src = 'sql.svg' height='60'/>
+	<img src='numpy.png' height='60' />
+	<img src='bash.png' height='60' />
+	<img src='qiskit.jpg' height='60' />
+	<img src='tkinter.jpg' height='60' />
+	<img src='graphql.png' height='60' />
+	<img src='svelte.png' height='60' />
+	<img src='wordpress.png' height='60' />
+	<img src='apollo.png' height='60' />
+	<img src='leaflet.gif' height='60' />
+	<img src='moibit_matic.png' height='60' />
+	<img src='react.jpg' height='60' />
+	<img src='vuejs.jpg' height='60' />
 </div>
 <br/>
 <div align="center">
@@ -74,14 +73,14 @@ My name is <strong>Vipul Bhatt</strong> :raising_hand:  and I am a 21 year old <
 	  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vipul7447" />
 	</a>
 	<a href="https://github.com/vipul7447">
-	  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul7447 &layout=donut&langs_count=5" />
+	  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul7447&layout=donut&langs_count=5" />
 	</a>
 </div>
 <div align="center">
 	<picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vipul7447/vipul7447/snake-output/github-contribution-grid-snake-dark.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vipul7447/vipul7447/snake-output/github-contribution-grid-snake.svg" />
-	  <img alt="github-snake" src="https://raw.githubusercontent.com/vipul7447/vipul7447/snake-output/github-contribution-grid-snake-dark.svg" />
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansh_Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake-dark.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake.svg" />
+	  <img alt="github-snake" src="https://raw.githubusercontent.com/Ansh-Sarkar/Ansh-Sarkar/snake-output/github-contribution-grid-snake-dark.svg" />
 	</picture>
 </div>
 
